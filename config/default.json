@@ -4,3 +4,6 @@
   "port": "3900",
   "requiresAuth": true
 }
+
+
+mongodb+srv://vidlyuser:1234@vidly.w8bwp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
